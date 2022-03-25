@@ -1,0 +1,1 @@
+# LCM-of-2-digit
